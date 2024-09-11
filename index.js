@@ -30,6 +30,12 @@ const songs = [
         displayName: 'Intellect',
         cover: 'assets/3.jpg',
         artist: 'Yung Logos',
+    },
+    {
+        path: 'assets/4.mp3',
+        displayName: 'Parado no Bailão',
+        cover: 'assets/4.png',
+        artist: 'Trio especial',
     }
 ];
 
